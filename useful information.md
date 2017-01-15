@@ -14,3 +14,5 @@ http://deeplearning.net/datasets/
 https://docs.google.com/document/d/1L11EjK0uObqjaBhHNcVPxeyIripGHSUaoEWGypuuVtk/pub
 
 http://ufldl.stanford.edu/housenumbers/
+
+https://vision.cornell.edu/se3/coco-text/
