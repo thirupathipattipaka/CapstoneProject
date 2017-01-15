@@ -8,3 +8,6 @@ https://blog.keras.io/building-powerful-image-classification-models-using-very-l
 https://gist.github.com/fchollet/0830affa1f7f19fd47b06d4cf89ed44d
 
 http://cbonnett.github.io/Insight.html
+
+#datasets
+http://deeplearning.net/datasets/
