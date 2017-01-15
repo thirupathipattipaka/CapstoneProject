@@ -11,3 +11,6 @@ http://cbonnett.github.io/Insight.html
 
 #datasets
 http://deeplearning.net/datasets/
+https://docs.google.com/document/d/1L11EjK0uObqjaBhHNcVPxeyIripGHSUaoEWGypuuVtk/pub
+
+http://ufldl.stanford.edu/housenumbers/
