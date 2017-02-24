@@ -1,5 +1,5 @@
 # Machine Learning Engineer Nanodegree
-## Computer Vision Capstone Project - Social Image Description Platform
+## Computer Vision Capstone Project - Traffic sinal classification
 Thirupathi Pattipaka 
 Feb 24, 2017
 
