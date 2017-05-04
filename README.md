@@ -10,12 +10,13 @@
 
 This project requires Python 3.6 and the following Python libraries installed:
 
-- NumPy
-- Pandas
-- scikit-learn
-- theano
-- keras
-- Tensorflow
+- [TensorFlow](http://www.tensorflow.org/)
+- [NumPy](http://www.numpy.org/)
+- [matplotlib](http://matplotlib.org/)
+- [scikit-learn](http://scikit-learn.org/stable/)
+- [SciPy library](http://www.scipy.org/scipylib/index.html)
+- [Six](http://pypi.python.org/pypi/six/)
+- [h5py](http://pypi.python.org/pypi/h5py/)
 
 You will also need to have software installed to run and execute a Jupyter Notebook. I have tested the code in the 16GB CPU and then processed in the NVIDIA GPU clusters.
 
