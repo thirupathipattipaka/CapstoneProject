@@ -29,5 +29,5 @@ Open the 5 Files and run their contents one after the other. Some commands take 
 
 This project uses the The German Traffic Sign Benchmarks Dataset (http://benchmark.ini.rub.de). The German Traffic Sign Detection Benchmark is a single-image detection assessment for researchers with interest in the field of computer vision, pattern recognition and image-based driver assistance.
 
-* a single-image detection problem
-* 900 images (devided in 600 training images and 300 evaluation images)
+* This is a single-image detection problem
+* There are 900 images (devided in 600 training images and 300 evaluation images)
