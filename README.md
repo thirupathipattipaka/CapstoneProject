@@ -1,9 +1,14 @@
 # Machine Learning Engineer Nanodegree
 ## Computer Vision Capstone Project - Traffic sinal classification
 
-Install
+## Source Code
 
-This project requires Python 2.7 and the following Python libraries installed:
+#### 01-preprocessing.ipynb
+#### 02-Training-and-Testing.ipynb
+
+## Requirements
+
+This project requires Python 3.6 and the following Python libraries installed:
 
 - NumPy
 - Pandas
@@ -12,10 +17,17 @@ This project requires Python 2.7 and the following Python libraries installed:
 - keras
 - Tensorflow
 
-You will also need to have software installed to run and execute a Jupyter Notebook
+You will also need to have software installed to run and execute a Jupyter Notebook. I have tested the code in the 16GB CPU and then processed in the NVIDIA GPU clusters.
 
-If you do not have Python installed yet, it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. Make sure that you select the Python 2.7 installer and not the Python 3.x installer.
+## Run
 
-Code
+Open Ipython Notebook in the root folder. I learnt that command would be changed to Jupyter Notebook
 
-Template code is provided in the student_intervention.ipynb notebook file. You will also be required to use the student-data.csv dataset file to complete your work. While some code has already been implemented to get you started, you will need to implement additional functionality when requested to successfully complete the project.
+Open the 5 Files and run their contents one after the other. Some commands take longer than others
+
+## Data
+
+This project uses the The German Traffic Sign Benchmarks Dataset (http://benchmark.ini.rub.de). The German Traffic Sign Detection Benchmark is a single-image detection assessment for researchers with interest in the field of computer vision, pattern recognition and image-based driver assistance.
+
+* a single-image detection problem
+* 900 images (devided in 600 training images and 300 evaluation images)
